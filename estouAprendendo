@@ -1,0 +1,16 @@
+public class App {
+    public static void main(String[] args) throws Exception {
+
+            String Saudacoes ="Oi java , estou aprendendo ";
+            int Ano = 2023;
+            char Dificudade = 'v';
+            boolean estaUmSucesso = true;
+            
+            
+            System.err.println(Saudacoes);
+            System.out.println(Ano);
+            System.out.println(Dificudade);
+            System.out.println(estaUmSucesso);
+
+    }
+}
